@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 #### 运行项目
 ```bash
-python main.py
+python video_parser.py
 ```
 
 ---
