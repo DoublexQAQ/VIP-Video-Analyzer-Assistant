@@ -36,7 +36,10 @@ pip install -r requirements.txt
 ```bash
 python video_parser.py
 ```
-
+#### 打包项目
+```bash
+pyinstaller video_parser.spec
+```
 ---
 
 ### 🔧 配置说明
